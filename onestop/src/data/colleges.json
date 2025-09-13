@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "name": "Anna University",
+    "type": "Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.0109,
+    "longitude": 80.235,
+    "facilities": ["Library", "Hostel", "Sports Complex", "Wi-Fi Campus"],
+    "website": "https://www.annauniv.edu"
+  },
+  {
+    "id": 2,
+    "name": "PSG College of Technology",
+    "type": "Engineering",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.0254,
+    "longitude": 77.0015,
+    "facilities": ["Library", "Innovation Center", "Sports Complex", "Wi-Fi Campus", "Hostel"],
+    "website": "https://www.psgtech.edu"
+  },
+  {
+  "id": 2,
+  "name": "Madras Institute of Technology (MIT), Anna University",
+  "type": "Engineering",
+  "location": "Chromepet, Chennai, Tamil Nadu",
+  "latitude": 12.9486,
+  "longitude": 80.1386,
+  "facilities": ["Library", "Labs", "Hostel", "Sports Complex", "Wi-Fi Campus"],
+  "website": "https://www.mitindia.edu/"
+}
+ ,
+  {
+    "id": 4,
+    "name": "Thiagarajar College of Engineering",
+    "type": "Engineering",
+    "location": "Madurai, Tamil Nadu",
+    "latitude": 9.8826,
+    "longitude": 78.0815,
+    "facilities": ["Library", "Labs", "Sports Complex", "Hostel"],
+    "website": "https://www.tce.edu"
+  },
+  {
+    "id": 5,
+    "name": "Sri Krishna College of Engineering and Technology",
+    "type": "Engineering",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.0165,
+    "longitude": 77.0103,
+    "facilities": ["Library", "Labs", "Sports Complex", "Hostel", "Wi-Fi Campus"],
+    "website": "https://www.skcet.ac.in"
+  },
+  {
+    "id": 6,
+    "name": "Velammal Engineering College",
+    "type": "Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.1558,
+    "longitude": 80.2126,
+    "facilities": ["Library", "Labs", "Hostel", "Sports Complex"],
+    "website": "https://velammal.edu.in"
+  },
+  {
+    "id": 7,
+    "name": "Kumaraguru College of Technology",
+    "type": "Engineering",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.0806,
+    "longitude": 77.0185,
+    "facilities": ["Library", "Labs", "Innovation Center", "Hostel"],
+    "website": "https://www.kct.ac.in"
+  },
+  {
+    "id": 8,
+    "name": "Hindustan Institute of Technology and Science",
+    "type": "Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 12.8793,
+    "longitude": 80.0808,
+    "facilities": ["Library", "Labs", "Sports Complex", "Hostel", "Wi-Fi Campus"],
+    "website": "https://hindustanuniv.ac.in"
+  },
+  {
+    "id": 9,
+    "name": "Bannari Amman Institute of Technology",
+    "type": "Engineering",
+    "location": "Erode, Tamil Nadu",
+    "latitude": 11.382,
+    "longitude": 77.609,
+    "facilities": ["Library", "Labs", "Sports Complex", "Hostel"],
+    "website": "https://www.bitsathy.ac.in"
+  },
+  {
+    "id": 10,
+    "name": "Sathyabama Institute of Science and Technology",
+    "type": "Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 12.8937,
+    "longitude": 80.2262,
+    "facilities": ["Library", "Hostel", "Sports Complex", "Wi-Fi Campus"],
+    "website": "https://www.sathyabama.ac.in"
+  },
+
+  {
+    "id": 11,
+    "name": "Madras Medical College",
+    "type": "Medical",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.0839,
+    "longitude": 80.27,
+    "facilities": ["Hospital", "Hostel", "Library", "Labs"],
+    "website": "https://www.mmc.ac.in"
+  },
+  {
+    "id": 12,
+    "name": "Christian Medical College",
+    "type": "Medical",
+    "location": "Vellore, Tamil Nadu",
+    "latitude": 12.9242,
+    "longitude": 79.1356,
+    "facilities": ["Hospital", "Research Centers", "Library", "Hostel"],
+    "website": "https://www.cmch-vellore.edu"
+  },
+  {
+    "id": 13,
+    "name": "Stanley Medical College",
+    "type": "Medical",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.096,
+    "longitude": 80.287,
+    "facilities": ["Hospital", "Labs", "Hostel", "Library"],
+    "website": "http://stanleymedicalcollege.in"
+  },
+  {
+    "id": 14,
+    "name": "Kilpauk Medical College",
+    "type": "Medical",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.076,
+    "longitude": 80.221,
+    "facilities": ["Hospital", "Library", "Hostel", "Labs"],
+    "website": "http://kmc.ac.in"
+  },
+  {
+    "id": 15,
+    "name": "Government Medical College",
+    "type": "Medical",
+    "location": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.7139,
+    "longitude": 77.7567,
+    "facilities": ["Hospital", "Labs", "Library", "Hostel"],
+    "website": "http://tmc.ac.in"
+  },
+  {
+    "id": 16,
+    "name": "Madurai Medical College",
+    "type": "Medical",
+    "location": "Madurai, Tamil Nadu",
+    "latitude": 9.9195,
+    "longitude": 78.1195,
+    "facilities": ["Hospital", "Library", "Labs", "Hostel"],
+    "website": "http://maduraimedicalcollege.org"
+  },
+  {
+    "id": 17,
+    "name": "Saveetha Medical College",
+    "type": "Medical",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 12.9816,
+    "longitude": 80.0689,
+    "facilities": ["Hospital", "Research Center", "Library", "Hostel"],
+    "website": "https://www.saveetha.com"
+  },
+  {
+    "id": 18,
+    "name": "Chengalpattu Medical College",
+    "type": "Medical",
+    "location": "Chengalpattu, Tamil Nadu",
+    "latitude": 12.691,
+    "longitude": 79.976,
+    "facilities": ["Hospital", "Hostel", "Library", "Labs"],
+    "website": "http://cmc.ac.in"
+  },
+  {
+    "id": 19,
+    "name": "Coimbatore Medical College",
+    "type": "Medical",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.016,
+    "longitude": 76.955,
+    "facilities": ["Hospital", "Hostel", "Library", "Labs"],
+    "website": "http://cmc.ac.in"
+  },
+  {
+    "id": 20,
+    "name": "Thanjavur Medical College",
+    "type": "Medical",
+    "location": "Thanjavur, Tamil Nadu",
+    "latitude": 10.787,
+    "longitude": 79.137,
+    "facilities": ["Hospital", "Library", "Labs", "Hostel"],
+    "website": "http://tmc.ac.in"
+  },
+
+  {
+    "id": 21,
+    "name": "Loyola College",
+    "type": "Arts & Science",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.0614,
+    "longitude": 80.2216,
+    "facilities": ["Library", "Hostel", "Sports Complex", "Auditorium"],
+    "website": "https://www.loyolacollege.edu"
+  },
+  {
+    "id": 22,
+    "name": "Stella Maris College",
+    "type": "Arts & Science",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.051,
+    "longitude": 80.25,
+    "facilities": ["Library", "Hostel", "Auditorium", "Sports Complex"],
+    "website": "https://www.stellamariscollege.edu.in"
+  },
+  {
+    "id": 23,
+    "name": "Ethiraj College for Women",
+    "type": "Arts & Science",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.0737,
+    "longitude": 80.2594,
+    "facilities": ["Library", "Hostel", "Auditorium", "Sports Complex"],
+    "website": "https://ethirajcollege.edu.in"
+  },
+  {
+    "id": 24,
+    "name": "Bharathiar University",
+    "type": "Arts & Science",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "facilities": ["Library", "Sports Complex", "Hostel", "Wi-Fi Campus"],
+    "website": "https://www.b-u.ac.in"
+  },
+  {
+    "id": 25,
+    "name": "Government Arts College",
+    "type": "Arts & Science",
+    "location": "Salem, Tamil Nadu",
+    "latitude": 11.6643,
+    "longitude": 78.146,
+    "facilities": ["Library", "Auditorium", "Sports Complex", "Hostel"],
+    "website": "http://gacsalem.edu.in"
+  },
+  {
+    "id": 26,
+    "name": "Queen Mary’s College",
+    "type": "Arts & Science",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.0605,
+    "longitude": 80.282,
+    "facilities": ["Library", "Hostel", "Sports Complex", "Labs"],
+    "website": "http://queenmaryscollege.edu.in"
+  },
+  {
+    "id": 27,
+    "name": "Presidency College",
+    "type": "Arts & Science",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.081,
+    "longitude": 80.280,
+    "facilities": ["Library", "Labs", "Sports Complex", "Hostel"],
+    "website": "http://presidencychennai.ac.in"
+  },
+  {
+    "id": 28,
+    "name": "PSG College of Arts & Science",
+    "type": "Arts & Science",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.016,
+    "longitude": 76.959,
+    "facilities": ["Library", "Hostel", "Sports Complex", "Auditorium"],
+    "website": "https://www.psgcas.ac.in"
+  },
+  {
+    "id": 29,
+    "name": "American College",
+    "type": "Arts & Science",
+    "location": "Madurai, Tamil Nadu",
+    "latitude": 9.930,
+    "longitude": 78.127,
+    "facilities": ["Library", "Auditorium", "Sports Complex", "Wi-Fi Campus"],
+    "website": "https://americancollege.edu.in"
+  },
+  {
+    "id": 30,
+    "name": "Periyar University",
+    "type": "Arts & Science",
+    "location": "Salem, Tamil Nadu",
+    "latitude": 11.6539,
+    "longitude": 78.1591,
+    "facilities": ["Library", "Hostel", "Sports Complex", "Wi-Fi Campus"],
+    "website": "https://www.periyaruniversity.ac.in"
+  },
+
+  {
+    "id": 31,
+    "name": "Government Law College",
+    "type": "Law",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.072,
+    "longitude": 80.250,
+    "facilities": ["Library", "Auditorium", "Sports Complex"],
+    "website": "https://glcchennai.ac.in"
+  },
+  {
+    "id": 32,
+    "name": "Dr. Ambedkar Government Law College",
+    "type": "Law",
+    "location": "Chennai, Tamil Nadu",
+    "latitude": 13.080,
+    "longitude": 80.280,
+    "facilities": ["Library", "Hostel", "Auditorium"],
+    "website": "http://ambedkarlawcollegechennai.in"
+  },
+  {
+    "id": 33,
+    "name": "Madurai Law College",
+    "type": "Law",
+    "location": "Madurai, Tamil Nadu",
+    "latitude": 9.920,
+    "longitude": 78.120,
+    "facilities": ["Library", "Labs", "Hostel"],
+    "website": "http://mlcmadurai.org"
+  },
+  {
+    "id": 34,
+    "name": "Coimbatore Law College",
+    "type": "Law",
+    "location": "Coimbatore, Tamil Nadu",
+    "latitude": 11.016,
+    "longitude": 76.950,
+    "facilities": ["Library", "Hostel", "Sports Complex"],
+    "website": "http://clccoimbatore.org"
+  },
+  {
+    "id": 35,
+    "name": "Tirunelveli Law College",
+    "type": "Law",
+    "location": "Tirunelveli, Tamil Nadu",
+    "latitude": 8.713,
+    "longitude": 77.750,
+    "facilities": ["Library", "Auditorium", "Hostel"],
+    "website": "http://tlctirunelveli.org"
+  },
+  {
+    "id": 36,
+    "name": "Salem Law College",
+    "type": "Law",
+    "location": "Salem, Tamil Nadu",
+    "latitude": 11.664,
+    "longitude": 78.146,
+    "facilities": ["Library", "Hostel", "Sports Complex"],
+    "website": "http://slcsalem.org"
+  },
+  {
+    "id": 37,
+    "name": "Vellore Law College",
+    "type": "Law",
+    "location": "Vellore, Tamil Nadu",
+    "latitude": 12.920,
+    "longitude": 79.135,
+    "facilities": ["Library", "Auditorium", "Hostel"],
+    "website": "http://vlcvellore.org"
+  },
+  {
+    "id": 38,
+    "name": "Dharmapuri Law College",
+    "type": "Law",
+    "location": "Dharmapuri, Tamil Nadu",
+    "latitude": 12.127,
+    "longitude": 78.157,
+    "facilities": ["Library", "Hostel", "Sports Complex"],
+    "website": "http://dlcdharmapuri.org"
+  },
+  {
+    "id": 39,
+    "name": "Thanjavur Law College",
+    "type": "Law",
+    "location": "Thanjavur, Tamil Nadu",
+    "latitude": 10.787,
+    "longitude": 79.137,
+    "facilities": ["Library", "Hostel", "Auditorium"],
+    "website": "http://tlcthanjavur.org"
+  },
+  {
+    "id": 40,
+    "name": "Trichy Law College",
+    "type": "Law",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "latitude": 10.790,
+    "longitude": 78.704,
+    "facilities": ["Library", "Hostel", "Sports Complex"],
+    "website": "http://tlctrichy.org"
+  },
+     {
+    "id": 41,
+    "name": "SRM Institute of Science and Technology",
+    "type": "Engineering",
+    "location": "Kattankulathur, Tamil Nadu",
+    "latitude": 12.8231,
+    "longitude": 80.0459,
+    "facilities": ["Library", "Research Center", "Hostel", "Sports Complex", "Wi-Fi Campus"],
+    "website": "https://www.srmist.edu.in"
+  }
+
+]
